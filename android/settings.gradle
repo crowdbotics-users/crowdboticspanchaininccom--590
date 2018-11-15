@@ -1,0 +1,3 @@
+rootProject.name = 'crowdboticspanchaininccom__590'
+
+include ':app'
